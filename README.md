@@ -1,6 +1,8 @@
 # Pandas Challenge
 ###  Heroes of Pymoli
 
+![Fantasy](Images/Fantasy.png)
+
 ### Observable Trends
 * Out of total 576 players, the majority are male (484).
 * Majority of the players are between the ages of 20-24. Most money was generated from this age group. 
